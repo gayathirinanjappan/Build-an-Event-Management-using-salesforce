@@ -1,6 +1,6 @@
 # Build-an-Event-Management-using-salesforce
-Vedio link
-https://drive.google.com/file/d/1kXqyn5wMe8omZWfgfrdrVk-CSgPiPJYr/view?usp=drivesdk
+Video link
+https://drive.google.com/file/d/1--YdNoI9g6p63N2bNd5TKCbVnq7Le3up/view?usp=drivesdk
 Trailhead URL
 Team Lead- https://trailblazer.me/id/gayan23
 Team Member 1- https://trailblazer.me/id/divys45
